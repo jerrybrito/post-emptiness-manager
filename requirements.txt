@@ -1,0 +1,2 @@
+# Requires: phantom-suspension
+# (Not available on PyPI)
